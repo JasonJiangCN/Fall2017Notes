@@ -1,0 +1,289 @@
+bplist00�_WebMainResource�	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_�http://webcache.googleusercontent.com/search?q=cache:Wzfn9rmjz6cJ:pages.cs.wisc.edu/~sohi/cs252/Fall2016/handouts/exams/Fall2016_Exam1B_sol.pdf+&cd=2&hl=en&ct=clnk&gl=us&client=safariPOk<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">body { margin-left:0;margin-right:0;margin-top:0; }#google-cache-hdr {background:#f5f5f5 !important;font:13px arial,sans-serif !important;text-align:left !important;color:#202020 !important;border:0 !important;margin:0 !important;border-bottom:1px solid #cecece !important;line-height:16px !important ;padding:16px 28px 24px 28px !important;}#google-cache-hdr * {display:inline !important;font:inherit !important;text-align:inherit !important;color:inherit !important;line-height:inherit !important;background:none !important;border:0 !important;margin:0 !important;padding:0 !important;letter-spacing:0 !important;}#google-cache-hdr a {text-decoration:none !important;color:#1a0dab !important;}#google-cache-hdr a:hover { text-decoration:underline !important; }#google-cache-hdr a:visited { color:#609 !important; }#google-cache-hdr div { display:block !important;margin-top:4px !important; }#google-cache-hdr b {font-weight:bold !important;display:inline-block !important;direction:ltr !important;}pre { word-wrap:break-word; }pre { white-space:pre-wrap; }</style><style></style></head><body bgcolor="#ffffff" vlink="blue" link="blue"><div id="google-cache-hdr" dir="ltr"><div>This is the html version of the file <a href="http://pages.cs.wisc.edu/~sohi/cs252/Fall2016/handouts/exams/Fall2016_Exam1B_sol.pdf" dir="ltr">http://pages.cs.wisc.edu/~sohi/cs252/Fall2016/handouts/exams/Fall2016_Exam1B_sol.pdf</a>.<br><b>Google</b> automatically generates html versions of documents as we crawl the web.</div></div><div style="position:relative;margin:8px;">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Author" content="Guri Sohi">
+<meta name="CreationDate" content="D:20160930171350-05'00'">
+<meta name="Creator" content="Acrobat PDFMaker 15 for Word">
+<meta name="ModDate" content="D:20160930171352-05'00'">
+<meta name="Producer" content="Adobe PDF Library 15.0">
+<meta name="SourceModified" content="D:20160930220824">
+<title>CS/ECE 252: INTRODUCTION TO COMPUTER ENGINEERING  UNIVERSITY OF WISCONSIN—MADISON</title>
+
+<table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="1"><b>Page 1</b></a></font></td></tr></tbody></table><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:1367;left:442"><nobr>1</nobr></div>
+</span></font>
+<font size="4" face="Times"><span style="font-size:21px;font-family:Times">
+<div style="position:absolute;top:364;left:97"><nobr><b>CS/ECE 252: INTRODUCTION TO COMPUTER ENGINEERING </b></nobr></div>
+<div style="position:absolute;top:438;left:210"><nobr><b>UNIVERSITY OF WISCONSIN—MADISON</b></nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:499;left:393"><nobr>Prof. Kai Zhao</nobr></div>
+<div style="position:absolute;top:527;left:194"><nobr>TAs: Neha Mittal, Annie Lin, Mohit Verma, Yuzhe Ma, Daniel Griffin</nobr></div>
+<div style="position:absolute;top:611;left:394"><nobr>Examination 1</nobr></div>
+<div style="position:absolute;top:639;left:372"><nobr>In Class (50 minutes)</nobr></div>
+<div style="position:absolute;top:667;left:338"><nobr><b>Monday, September 28, 2016</b></nobr></div>
+<div style="position:absolute;top:695;left:395"><nobr>Weight: 17.5%</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:774;left:123"><nobr><b>NO: BOOK(S), NOTE(S), CALCULATORS OR ELECTRONIC DEVICES OF ANY SORT.</b></nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:800;left:93"><nobr>The exam has <b>nine pages</b>. You <b>must turn in the pages 1-8. Circle your final answers</b>. Plan your</nobr></div>
+<div style="position:absolute;top:828;left:106"><nobr>time carefully since some problems are longer than others. Use the blank sides of the exam for</nobr></div>
+<div style="position:absolute;top:856;left:398"><nobr>scratch work.</nobr></div>
+<div style="position:absolute;top:939;left:90"><nobr>LAST NAME: ________________________________________________________________ </nobr></div>
+<div style="position:absolute;top:967;left:85"><nobr>FIRST NAME: ________________________________________________________________  </nobr></div>
+<div style="position:absolute;top:995;left:134"><nobr>Section: ________________________________________________________________</nobr></div>
+<div style="position:absolute;top:1023;left:157"><nobr>ID#: _________________________________________________________________ </nobr></div>
+</span></font>
+
+<div style="position:absolute;top:1437;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="2"><b>Page 2</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2629;left:442"><nobr>2</nobr></div>
+<div style="position:absolute;top:1836;left:249"><nobr>Problem </nobr></div>
+<div style="position:absolute;top:1836;left:373"><nobr>Maximum Points</nobr></div>
+<div style="position:absolute;top:1836;left:541"><nobr>Points Earned</nobr></div>
+<div style="position:absolute;top:1891;left:275"><nobr>1</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:1889;left:431"><nobr>1</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:1946;left:275"><nobr>2</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:1944;left:431"><nobr>3</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2001;left:275"><nobr>3</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:1999;left:431"><nobr>2</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2055;left:275"><nobr>4</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2053;left:431"><nobr>2</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2110;left:275"><nobr>5</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2108;left:431"><nobr>4</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2165;left:275"><nobr>6</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2163;left:431"><nobr>4</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2220;left:275"><nobr>7</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2218;left:431"><nobr>6</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2274;left:275"><nobr>8</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2272;left:431"><nobr>4</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2329;left:275"><nobr>9</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2327;left:431"><nobr>4</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2384;left:271"><nobr>10</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2382;left:431"><nobr>3</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:2439;left:261"><nobr>Total</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:2437;left:427"><nobr>33 </nobr></div>
+</span></font>
+
+<div style="position:absolute;top:2699;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="3"><b>Page 3</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:3891;left:442"><nobr>3</nobr></div>
+<div style="position:absolute;top:2788;left:85"><nobr><b>Problem 1  </b></nobr></div>
+<div style="position:absolute;top:2788;left:723"><nobr><b>(1 point)</b></nobr></div>
+<div style="position:absolute;top:2827;left:85"><nobr>Which of the following statements are true? </nobr></div>
+<div style="position:absolute;top:2865;left:85"><nobr>i) There can be many different microarchitectures implementing a single ISA. </nobr></div>
+<div style="position:absolute;top:2903;left:85"><nobr>ii) In logic circuits, there is only one way to implement any particular function (e.g. addition). </nobr></div>
+<div style="position:absolute;top:2942;left:85"><nobr>iii) The translation from the unique assembly language of a computer to its ISA is done by an</nobr></div>
+<div style="position:absolute;top:2970;left:85"><nobr>assembler.</nobr></div>
+<div style="position:absolute;top:3008;left:85"><nobr>Select one answer below:</nobr></div>
+<div style="position:absolute;top:3047;left:85"><nobr>a) i &amp; ii</nobr></div>
+<div style="position:absolute;top:3086;left:85"><nobr><b>b) i &amp; iii</b></nobr></div>
+<div style="position:absolute;top:3124;left:85"><nobr>c) ii &amp; iii</nobr></div>
+<div style="position:absolute;top:3162;left:85"><nobr>d) i, ii &amp; iii</nobr></div>
+<div style="position:absolute;top:3246;left:85"><nobr><b>Problem 2 </b></nobr></div>
+<div style="position:absolute;top:3246;left:723"><nobr><b>(3 points)</b></nobr></div>
+<div style="position:absolute;top:3274;left:85"><nobr>Match the following computer abstraction layers with their definitions specified in the table. </nobr></div>
+<div style="position:absolute;top:3302;left:85"><nobr>a) ISA</nobr></div>
+<div style="position:absolute;top:3330;left:85"><nobr>b) Program</nobr></div>
+<div style="position:absolute;top:3358;left:85"><nobr>c) Algorithm</nobr></div>
+<div style="position:absolute;top:3386;left:85"><nobr>d) Microarchitecture</nobr></div>
+<div style="position:absolute;top:3414;left:85"><nobr>e) Devices </nobr></div>
+<div style="position:absolute;top:3495;left:85"><nobr><b>D</b></nobr></div>
+<div style="position:absolute;top:3486;left:141"><nobr>A detailed organization of the implementation of an ISA.</nobr></div>
+<div style="position:absolute;top:3555;left:85"><nobr><b>E</b></nobr></div>
+<div style="position:absolute;top:3545;left:141"><nobr>Specific hardware technology used to implement logical components of the computer</nobr></div>
+<div style="position:absolute;top:3570;left:141"><nobr>system. (Ex. CMOS/NMOS transistors)</nobr></div>
+<div style="position:absolute;top:3623;left:85"><nobr><b>B</b></nobr></div>
+<div style="position:absolute;top:3612;left:141"><nobr>A ‘mechanical language’ that is used to specify a sequence of instructions to a computer.</nobr></div>
+<div style="position:absolute;top:3676;left:85"><nobr><b>A</b></nobr></div>
+<div style="position:absolute;top:3666;left:141"><nobr>The complete specification of the interface between programs that have been written and the</nobr></div>
+<div style="position:absolute;top:3691;left:141"><nobr>underlying computer hardware that must carry out the work of those programs.</nobr></div>
+<div style="position:absolute;top:3756;left:85"><nobr><b>C</b></nobr></div>
+<div style="position:absolute;top:3746;left:141"><nobr>A step by step procedure that is guaranteed to terminate, such that each step is precisely</nobr></div>
+<div style="position:absolute;top:3771;left:141"><nobr>stated and can be carried out by the computer </nobr></div>
+</span></font>
+
+<div style="position:absolute;top:3961;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="4"><b>Page 4</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:5153;left:442"><nobr>4</nobr></div>
+<div style="position:absolute;top:4050;left:85"><nobr><b>Problem 3 </b></nobr></div>
+<div style="position:absolute;top:4050;left:723"><nobr><b>(2 points)</b></nobr></div>
+<div style="position:absolute;top:4086;left:85"><nobr>(a)  What is the difference between high level and low level languages?</nobr></div>
+<div style="position:absolute;top:4142;left:85"><nobr><b>High level languages are easier to comprehend and are machine independent.</b></nobr></div>
+<div style="position:absolute;top:4309;left:85"><nobr>(b) Why are natural languages unsuitable for programming on a computer?</nobr></div>
+<div style="position:absolute;top:4365;left:85"><nobr><b>They are ambiguous and thus a computer cannot interpret them</b>.</nobr></div>
+<div style="position:absolute;top:4561;left:85"><nobr><b>Problem 4 </b></nobr></div>
+<div style="position:absolute;top:4561;left:723"><nobr><b>(2 points)</b></nobr></div>
+<div style="position:absolute;top:4588;left:85"><nobr>A class has 269 students enrolled in it.  Each student is to be assigned a unique ID number (in</nobr></div>
+<div style="position:absolute;top:4616;left:85"><nobr>unsigned binary notation). </nobr></div>
+<div style="position:absolute;top:4672;left:85"><nobr>(a)  What is the minimum number of bits needed to assign each student a unique binary ID number? </nobr></div>
+<div style="position:absolute;top:4728;left:85"><nobr><b>9</b></nobr></div>
+<div style="position:absolute;top:4868;left:85"><nobr>(b)  If we were to increase the number of bits by 1, how many more students can be accommodated</nobr></div>
+<div style="position:absolute;top:4896;left:85"><nobr>in the class and still be assigned a unique binary ID number?</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:14px;font-family:Times">
+<div style="position:absolute;top:5008;left:85"><nobr><b>755 </b></nobr></div>
+</span></font>
+
+<div style="position:absolute;top:5223;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="5"><b>Page 5</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:6415;left:442"><nobr>5</nobr></div>
+<div style="position:absolute;top:5312;left:85"><nobr><b>Problem 5 </b></nobr></div>
+<div style="position:absolute;top:5312;left:723"><nobr><b>(4 points)</b></nobr></div>
+<div style="position:absolute;top:5340;left:92"><nobr>(a) Using 8 bits for each number, write the 1’s complement, 2’s complement, and signed</nobr></div>
+<div style="position:absolute;top:5368;left:119"><nobr>magnitude binary number of the decimal numbers in the table below:</nobr></div>
+<div style="position:absolute;top:5429;left:85"><nobr>Decimal</nobr></div>
+<div style="position:absolute;top:5429;left:272"><nobr>1’s Complement</nobr></div>
+<div style="position:absolute;top:5425;left:458"><nobr>2’s Complement</nobr></div>
+<div style="position:absolute;top:5429;left:645"><nobr>Signed Magnitude</nobr></div>
+<div style="position:absolute;top:5468;left:85"><nobr>21</nobr></div>
+<div style="position:absolute;top:5461;left:272"><nobr><b>00010101</b></nobr></div>
+<div style="position:absolute;top:5461;left:458"><nobr><b>00010101</b></nobr></div>
+<div style="position:absolute;top:5461;left:645"><nobr><b>00010101</b></nobr></div>
+<div style="position:absolute;top:5509;left:85"><nobr>-12</nobr></div>
+<div style="position:absolute;top:5502;left:272"><nobr><b>11110011</b></nobr></div>
+<div style="position:absolute;top:5502;left:458"><nobr><b>11110100</b></nobr></div>
+<div style="position:absolute;top:5502;left:645"><nobr><b>10001100</b></nobr></div>
+<div style="position:absolute;top:5599;left:85"><nobr>(b) <font color="#191919">Why do computers more often use 2's complement representation over 1's complement</font></nobr></div>
+</span></font>
+<font size="3" color="#191919" face="Times"><span style="font-size:16px;font-family:Times;color:#191919">
+<div style="position:absolute;top:5627;left:85"><nobr>representation?</nobr></div>
+</span></font>
+<font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:5683;left:85"><nobr><b>There are two representations of 0 in 1’s complement. Also 2’s complement is easier for</b></nobr></div>
+<div style="position:absolute;top:5711;left:85"><nobr><b>computers to perform arithmetic in. </b></nobr></div>
+<div style="position:absolute;top:5823;left:85"><nobr><b>Problem 6 </b></nobr></div>
+<div style="position:absolute;top:5823;left:723"><nobr><b>(4 Points)</b></nobr></div>
+<div style="position:absolute;top:5851;left:85"><nobr>Convert the following 32-bit single-precision IEEE floating point number into decimal value. Show</nobr></div>
+<div style="position:absolute;top:5875;left:85"><nobr>your work for full credit:</nobr></div>
+<div style="position:absolute;top:5913;left:85"><nobr>11000000110110000000000000000000  </nobr></div>
+<div style="position:absolute;top:5942;left:85"><nobr>The bits for the IEEE single-precision floating point number (N) are allocated as follows: </nobr></div>
+<div style="position:absolute;top:5994;left:97"><nobr>Sign (1 bit)</nobr></div>
+<div style="position:absolute;top:5994;left:218"><nobr>Exponent (8 bits)</nobr></div>
+<div style="position:absolute;top:5994;left:394"><nobr>Fraction (23 bits)</nobr></div>
+<div style="position:absolute;top:6062;left:85"><nobr><b>Where the value N = (-1)<font style="font-size:10px">Sign </font>x 1.Fraction x 2 <font style="font-size:10px">Exponent-127</font></b></nobr></div>
+<div style="position:absolute;top:6090;left:85"><nobr>.</nobr></div>
+<div style="position:absolute;top:6118;left:85"><nobr><b>-6.75 </b></nobr></div>
+</span></font>
+
+<div style="position:absolute;top:6485;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="6"><b>Page 6</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:7677;left:442"><nobr>6</nobr></div>
+<div style="position:absolute;top:6613;left:85"><nobr><b>Problem 7 </b></nobr></div>
+<div style="position:absolute;top:6613;left:723"><nobr><b>(6 points)</b></nobr></div>
+<div style="position:absolute;top:6651;left:85"><nobr>Perform binary arithmetic for the following numbers as directed. All the numbers are represented in</nobr></div>
+<div style="position:absolute;top:6679;left:85"><nobr>2’s complement form. </nobr></div>
+<div style="position:absolute;top:6717;left:85"><nobr>(a) Add the following 2’s complement numbers. Write the final result as a 6-bit number. </nobr></div>
+<div style="position:absolute;top:6745;left:138"><nobr>010110</nobr></div>
+<div style="position:absolute;top:6773;left:121"><nobr>+     1000</nobr></div>
+<div style="position:absolute;top:6815;left:138"><nobr><b>001110</b></nobr></div>
+<div style="position:absolute;top:6921;left:85"><nobr>Did an overflow error occur in the previous addition? State how you know.</nobr></div>
+<div style="position:absolute;top:6992;left:85"><nobr><b>Overflow cannot occur when adding a positive number with a negative number.</b></nobr></div>
+<div style="position:absolute;top:7090;left:85"><nobr>(b) Subtract the following 2’s complement numbers. Write the final result as a 6-bit number. </nobr></div>
+<div style="position:absolute;top:7118;left:138"><nobr>110011</nobr></div>
+<div style="position:absolute;top:7146;left:116"><nobr>-   110010</nobr></div>
+<div style="position:absolute;top:7167;left:138"><nobr><b>000001</b></nobr></div>
+<div style="position:absolute;top:7306;left:85"><nobr>Did an overflow error occur in the previous operation? State how you know.</nobr></div>
+<div style="position:absolute;top:7342;left:85"><nobr><b>Overflow cannot occur when subtracting a negative number from a negative number.</b></nobr></div>
+<div style="position:absolute;top:7453;left:85"><nobr>(c) Convert the answers for (a) and (b) into decimal numbers.  Show your work for full credit.</nobr></div>
+<div style="position:absolute;top:7510;left:85"><nobr><b>001110 = 14</b></nobr></div>
+<div style="position:absolute;top:7538;left:85"><nobr><b>000001 = 1 </b></nobr></div>
+</span></font>
+
+<div style="position:absolute;top:7747;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="7"><b>Page 7</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:8939;left:442"><nobr>7</nobr></div>
+<div style="position:absolute;top:7836;left:85"><nobr><b>Problem 8 </b></nobr></div>
+<div style="position:absolute;top:7836;left:723"><nobr><b>(4 points)</b></nobr></div>
+<div style="position:absolute;top:7864;left:112"><nobr>(a) Convert the following 3 hexadecimal numbers to unsigned binary. A 0x before a set of</nobr></div>
+<div style="position:absolute;top:7892;left:139"><nobr>symbols (from 0 to F) indicates a hexadecimal number.</nobr></div>
+<div style="position:absolute;top:7948;left:139"><nobr>0x28 </nobr></div>
+<div style="position:absolute;top:7976;left:139"><nobr><b>0010 1000</b></nobr></div>
+<div style="position:absolute;top:8032;left:139"><nobr>0xBA</nobr></div>
+<div style="position:absolute;top:8060;left:139"><nobr><b>1011 1010</b></nobr></div>
+<div style="position:absolute;top:8116;left:139"><nobr>0xE7</nobr></div>
+<div style="position:absolute;top:8144;left:139"><nobr><b>1110 0111</b></nobr></div>
+<div style="position:absolute;top:8199;left:112"><nobr>(b) Perform the specified logical operations on the following hexadecimal numbers. Write your</nobr></div>
+<div style="position:absolute;top:8227;left:139"><nobr>result in unsigned binary. (Hint: first convert the hexadecimal to binary, which you did in</nobr></div>
+<div style="position:absolute;top:8255;left:139"><nobr>part (a), and then perform the operations)</nobr></div>
+<div style="position:absolute;top:8311;left:139"><nobr>NOT(0x28 OR (0xBA AND 0xE7)) </nobr></div>
+<div style="position:absolute;top:8367;left:85"><nobr><b>0101 0101</b></nobr></div>
+<div style="position:absolute;top:8674;left:112"><nobr>(c) Convert the result of part (b) into hexadecimal. </nobr></div>
+<div style="position:absolute;top:8759;left:85"><nobr><b>0x55 </b></nobr></div>
+</span></font>
+
+<div style="position:absolute;top:9009;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="8"><b>Page 8</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:10201;left:442"><nobr>8</nobr></div>
+<div style="position:absolute;top:9098;left:85"><nobr><b>Problem 9 </b></nobr></div>
+<div style="position:absolute;top:9098;left:723"><nobr><b>(4 points)</b></nobr></div>
+<div style="position:absolute;top:9126;left:92"><nobr>The ASCII table on the last page will be useful in solving this problem. You can detach it to make</nobr></div>
+<div style="position:absolute;top:9154;left:92"><nobr>it easier to consult without flipping pages.</nobr></div>
+<div style="position:absolute;top:9210;left:85"><nobr>Consider two strings of two ASCII characters each: “<b>54</b>” and “<b>$@</b>”. The ASCII characters in the</nobr></div>
+<div style="position:absolute;top:9238;left:85"><nobr>string are the two characters between the quotation marks, and there is no null character terminating</nobr></div>
+<div style="position:absolute;top:9266;left:85"><nobr>the string. </nobr></div>
+<div style="position:absolute;top:9294;left:85"><nobr>(a) First, convert each of these two strings into their corresponding 16-bit binary values. </nobr></div>
+<div style="position:absolute;top:9350;left:85"><nobr><b>54: 00110101 00110100</b></nobr></div>
+<div style="position:absolute;top:9378;left:85"><nobr><b>$@: 00100100 01000000</b></nobr></div>
+<div style="position:absolute;top:9489;left:85"><nobr>(b) Now, suppose that the two 16-bit binary values were added as if they were signed integers in 2’s</nobr></div>
+<div style="position:absolute;top:9517;left:85"><nobr>complement, and the resulting 16 bits treated as if they were a string of ASCII characters. What</nobr></div>
+<div style="position:absolute;top:9545;left:85"><nobr>would the resulting ASCII string be?  Show your work for full credit.</nobr></div>
+<div style="position:absolute;top:9609;left:85"><nobr><b>Sum: 0101100101110100</b></nobr></div>
+<div style="position:absolute;top:9644;left:85"><nobr><b>ASCII: Y+</b></nobr></div>
+<div style="position:absolute;top:9856;left:85"><nobr><b>Problem 10 </b></nobr></div>
+<div style="position:absolute;top:9856;left:723"><nobr><b>(3 points)</b></nobr></div>
+<div style="position:absolute;top:9881;left:85"><nobr>Give an example of an <i>integer </i>that can be represented in floating point format (32-bit IEEE format),</nobr></div>
+<div style="position:absolute;top:9905;left:85"><nobr>but cannot be represented as a 32-bit 2’s complement integer. Show its 32-bit IEEE format</nobr></div>
+<div style="position:absolute;top:9930;left:85"><nobr>representation.</nobr></div>
+<div style="position:absolute;top:9966;left:85"><nobr><b>The biggest 2’s complement integer that can be represented with 32 bits is 2^31 -1, so any</b></nobr></div>
+<div style="position:absolute;top:9991;left:85"><nobr><b>integer number greater than 2^31 -1, but less than 2^128 , is the answer to this question.</b></nobr></div>
+<div style="position:absolute;top:10026;left:85"><nobr><b>so 2^31 , 2^31 +1, 2^31 +2 and 2^32 are some examples.</b></nobr></div>
+<div style="position:absolute;top:10097;left:85"><nobr><b>Then convert it to IEEE. </b></nobr></div>
+</span></font>
+
+<div style="position:absolute;top:10271;left:0"><hr><table border="0" width="100%"><tbody><tr><td bgcolor="eeeeee" align="right"><font face="arial,sans-serif"><a name="9"><b>Page 9</b></a></font></td></tr></tbody></table></div><font size="3" face="Times"><span style="font-size:16px;font-family:Times">
+<div style="position:absolute;top:11463;left:442"><nobr>9 </nobr></div>
+</span></font>
+
+
+</div><div id="vimmy-hints"></div></body></html>    ( > \ k � � � �^_                           l|
